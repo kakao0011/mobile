@@ -4,11 +4,11 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-      <main>
+    <section>
         <h1>
           Admin
         </h1>
-    </div>
+    </section>
   )
 }
 
